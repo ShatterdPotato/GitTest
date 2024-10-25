@@ -20,5 +20,7 @@ public class Runner {
             String answer2 = scan.nextLine();
             isWeekend = answer2.equalsIgnoreCase("yes");
         }
+
+        System.out.println("need this change");
     }
 }
